@@ -14,7 +14,7 @@ It supports **role-based access**, **JWT authentication**, **book reservations**
 
 ## 🌐 Demo & Repository
 
-🚀 [GitHub Repository](https://github.com/shishiro26/library-management-system)  
+🚀 [GitHub Repository](https://github.com/lalithmandarapu/BookVault-Secure-Library-Management)  
 🔗 Deploy backend using **Render/Railway** and frontend using **Vercel/Netlify**.  
 
 ---
